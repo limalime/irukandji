@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "Climate Crisis";
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-display: fallback;
+  font-variation-settings: "YEAR" 1979;
+  src: url("/fonts/climate.ttf") format("ttf");
+}
