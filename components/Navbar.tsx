@@ -69,7 +69,7 @@
               {/* Social Links */}
               <div className="hidden md:flex items-center space-x-4">
                 <Link
-                  href="https://x.com/0xIrukandji"
+                  href="https://x.com/irukandjinfts"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-rose/80 hover:text-rose-900 transition-colors"
@@ -77,18 +77,18 @@
                   <FaSquareXTwitter className="w-5 h-5" />
                 </Link>
                 <Link
-                  href="https://dc.gg/irukandji"
+                  href="https://discord.gg/q9DdaAGmDk"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-rose/80 hover:text-rose-900 transition-colors"
                 >
                   <FaDiscord className="w-5 h-5" />
                 </Link>
-                <Link href="#"
+                <Link href="https://opensea.io/collection/irukandji"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-rose/80 hover:text-rose-900 transition-colors" >
-                  <FaSpotify className="w-5 h-5" />
+                  <SiOpensea className="w-5 h-5" />
                 </Link>
               </div>
 
@@ -100,8 +100,7 @@
                 {isOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
               </button>
             </div>
-          </div>
-        </motion.nav>
+          iruav>
 
         {/* Mobile Menu */}
         <AnimatePresence>
